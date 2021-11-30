@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janiks05
-- 👀 I’m interested in programming (I mean... it's Github) 
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in webdev, programming 
+- 🌱 I’m currently learning React
 
 
 - 📫 How to reach me: janiksmikowski@gmail.com
